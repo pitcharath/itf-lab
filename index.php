@@ -12,8 +12,10 @@
         <p>Second Picture</p>
         <img src="Christmas_tree.jpg">
         <br>
-        <a href="https://www.youtube.com">Favourite Website #1</a>
-        <a href="https://www.reddit.com">Favourite Website #2</a>
+        <ul>
+            <li><a href="https://www.youtube.com">Favourite Website #1</a></li>
+            <li><a href="https://www.reddit.com">Favourite Website #2</a></li>
+        </ul>
         <p> Once when I was in high school. Me and my friend went to a school's shop.
             I went to the snacks and sweets section and decided to brought up a pack of candies.
             I showed the candies to my friend who is from across the shop. A second later, my
